@@ -1,0 +1,11 @@
+Suumary of Assignment
+1. i) After import data, checking null value and Data type of dataset
+  ii) then with help of some pandas modules clean data and change data type and also filled some missing value
+ iii) then with help of graph and tabular data Analysis all data frame
+  iv) After Analysis dataframe transform dataset for future work with help of python module
+   v) then cluters data with help of k-Means python module
+  vi) After clustering data, we got some information "Cluster and Income Information" and "Cluster Information and Ages"
+
+2. i) After clustering data Build a classification model
+  ii) with help of some machine learning algorithm like KNeighborsClassifier, DecisionTreeClassifier, LogisticRegression
+ iii) firstly,  we train model with help of data and then got result
