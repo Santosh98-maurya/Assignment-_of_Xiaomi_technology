@@ -1,0 +1,2 @@
+# Assignment-_of_Xiaomi_technology
+Assignmet_work
